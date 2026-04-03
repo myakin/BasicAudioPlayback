@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: f190b7a4673369f4d865c82a4e289413
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 8
+  defaultSettings:
+    serializedVersion: 2
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 0
+    compressionFormat: 0
+    quality: 1
+    conversionMode: 0
+    preloadAudioData: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19281
+  packageName: VV AudioPack
+  packageVersion: 1.20
+  assetPath: Assets/VV AudioPack/GameLoop-02-58s.wav
+  uploadId: 737885
