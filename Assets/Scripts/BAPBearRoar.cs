@@ -7,6 +7,7 @@ public class BAPBearRoar : MonoBehaviour
 
     public void Roar() {
         if (activeState!="Roar") {
+            activeState = "Roar";
             string fileName = MakeSoundFileNameForState("Roar");
             AudioClip roarClip = Resources.Load(fileName) as AudioClip;
             GetComponent<AudioSource>().clip = roarClip;
