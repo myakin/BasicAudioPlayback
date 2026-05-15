@@ -12,6 +12,12 @@ public class BAPAnimalSoundPlayer : MonoBehaviour
     public void Attack() {
         PlaySoundForState("Attack");
     }
+    public void AttackRoar() {
+        PlaySoundForState("AttackRoar");
+    }
+    public void AttackHit() {
+        PlaySoundForState("AttackHit");
+    }
 
     public void Die() {
         PlaySoundForState("Die");
